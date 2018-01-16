@@ -1,0 +1,40 @@
+{
+  "name": "Scuola Infanzia Umberto I",
+  "menu": [
+    {
+      "valid_from": "01/11/2017", "valid_to": "30/04/2018",
+      "date_start": "01/01/2018",
+      "note": "IL PANE INTEGRALE E' PREVISTO UNA-DUE VOLTE A SETTIMANA",
+      "days": [
+          { "day":1   ,"value":"Pasta Aurora|Polpette di Manzo in umido|Insalata/Pomodori|Frutta di Stagione"},
+          { "day":2   ,"value":"Minestrone-Passato di Verdura con Pasta|Straccetti di Pollo|Patate al forno|Frutta di Stagione"},
+          { "day":3   ,"value":"Pasta Zafferano e Zucchine|Rollata di Frittata|Piselli Spadellati|Frutta di Stagione"},
+          { "day":4   ,"value":"Pizza Margherita Integrale|1/2 porz. Prosciutto Cotto |Fagiolini|Budino - Yogurt"},
+          { "day":5   ,"value":"Ravioli di magro al burro e salvi|Platessa o Limanda Gratinata |Carote Gratinate |Frutta di Stagione"},
+          { "day":6   ,"value":""},
+          { "day":7   ,"value":""},
+          { "day":8   ,"value":"Pennette al Pesto |Prosciutto Cotto e Crudo |Finocchi Gratinati|Frutta di Stagione"},
+          { "day":9   ,"value":"Pasta Pasticciata con Besciamelle e Ragù di Carne|Carote Julienne|Frutta di stagione"},
+          { "day":10  ,"value":"Passato di Verdura e Legumi con Pasta o Orzo|Cosce di Pollo al Forno|Purè|Torta"},
+          { "day":11  ,"value":"Pasta  all'Ortolana |Hamburger alla Pizzaiola|Insalata Ricca con Piselli|Frutta di Stagione"},
+          { "day":12  ,"value":"Risotto allo Zafferano|Bastoncini di Pesce |Spinaci|Frutta di Stagione"},
+          { "day":13  ,"value":""},
+          { "day":14  ,"value":""},
+          { "day":15  ,"value":"Pennette al Pomodoro e Melanzane |Cotoletta di merluzzo|Broccoli|Frutta di Stagione"},
+          { "day":16  ,"value":"Gnocchi al Pomodoro|Scaloppina di Lonza |Insalata Ricca con Piselli|Frutta di Stagione"},
+          { "day":17  ,"value":"Pastina al Brodo Vegetale |Polpette di Manzo al Forno |Patate al Forno|Frutta di Stagione"},
+          { "day":18  ,"value":"Pizza Margherita Integrale|1/2 porz. Prosciutto Cotto |Fagiolini|Budino - Yogurt"},
+          { "day":19  ,"value":"Pasta Pomodoro e Ceci |Crocchette di Verdura |Zucchine|Frutta di Stagione"},
+          { "day":20  ,"value":""},
+          { "day":21  ,"value":""},
+          { "day":22  ,"value":"Spaghetti al Pomodoro e Ragù Vegetale |Primo Sale o Mozzarella |Piselli o Cannellini Spadellati|Frutta di Stagione"},
+          { "day":23  ,"value":"Lasagne alla bolognese|Carote Julienne |Frutta di stagione"},
+          { "day":24  ,"value":"Passato di Verdura e Legumi con Pasta |Fesa di Tacchino|Patate lesse|Frutta di Stagione o Yogurt "},
+          { "day":25  ,"value":"Gemellini all'Olio|Cotoletta di Pollo|Finocchi|Frutta di Stagione"},
+          { "day":26  ,"value":"Riso al Pomodoro |Platessa o Limanda Gratinata |Zucchine o Spinaci |Frutta di Stagione"},
+          { "day":27  ,"value":""},
+          { "day":28  ,"value":""}
+      ]
+    }
+  ]
+}
